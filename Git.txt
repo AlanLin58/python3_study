@@ -91,3 +91,6 @@ git remote -v
 https://github.com/AlanLin58/python3_study
 https://github.com/AlanLin58/python_TWII_20211013.py.git
 
+push goto:
+git push origin master
+
