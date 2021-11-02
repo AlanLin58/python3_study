@@ -10,7 +10,7 @@ C:\Users\william\Downloads\mpv-dev-x86_64-20211017-git-e13fe12.7z\
 
 C:\Users\william\AppData\Local\Programs
 
-good 
+add good 
 
 常用 Git 指令介紹
 目錄
